@@ -1,0 +1,63 @@
+* {
+    scroll-behavior: smooth;
+}
+
+.main__img {
+    width: 250px;
+}
+
+.p_blockquote {
+    border-left: 7px solid #004aad;
+    padding: 20px;
+}
+
+.btn {
+    background-color: #004aad;
+    color: white;
+}
+
+.btn:hover {
+    color: white;
+}
+
+body {
+    background-color: #f8f9fa;
+    color: rgb(91, 86, 86);
+    font-family: 'Roboto Slab', serif;
+}
+
+nav {
+    background-color: white;
+    font-family: 'Bruno Ace SC', cursive;
+}
+
+h1, h2{
+    font-family: 'Bruno Ace SC', cursive;
+}
+
+.about {
+    background-color: white;
+}
+
+main ul {
+    list-style: none;
+  }
+  
+main ul li::before {
+    content: "\2022";
+    color: #004aad;
+    font-weight: 900;
+    display: inline-block; 
+    width: 1em;
+    margin-left: -1em;
+  }
+
+main ul li {
+    padding-bottom: 5px;
+}
+
+.certificates {
+    background-color: white;
+}
+
+
