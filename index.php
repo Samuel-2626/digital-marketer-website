@@ -67,11 +67,12 @@
             </p>     
 <br>
 <a href="mailto:info.tolusocials@gmail.com" class="btn btn-lg mb-4">Work with me?</a> &nbsp; &nbsp; &nbsp; &nbsp;
-<a href="download.php?file=Adeleke Toluwalope (Resume).pdf" class="btn btn-lg mb-4">Download Resume <i class="fa fa-download"></i></a>
+<a href="https://www.tolusocials.com/Adeleke Toluwalope (Resume).pdf" class="btn btn-lg mb-4">My Resume</a>
           </div>
         </div>
       </div>
     </div>
+    <br>
     <div data-target="#navbar-example2" data-spy="scroll" id="about-me">
     <div class="container">
     <div class="about pt-4 p-2">
