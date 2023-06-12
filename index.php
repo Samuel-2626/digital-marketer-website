@@ -11,7 +11,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&family=Roboto+Slab&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="main_style.css">
     <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
     <meta name="author" content="Adeleke Toluwalope">
     <meta name="description" content="I am a passionate digital marketer. I help businesses leverage
@@ -67,7 +67,7 @@
             </p>     
 <br>
 <a href="mailto:info.tolusocials@gmail.com" class="btn btn-lg mb-4 special-font">Work with me?</a> &nbsp; &nbsp; &nbsp; &nbsp;
-<a href="https://www.tolusocials.com/Adeleke Toluwalope (Resume).pdf" class="btn btn-lg mb-4 special-font">My Resume</a>
+<a href="https://www.tolusocials.com/Adeleke_Toluwalope_Resume.pdf" class="btn btn-lg mb-4 special-font">My Resume</a>
           </div>
         </div>
       </div>
@@ -144,10 +144,10 @@
         </div>
       </div>
       <hr>
-    <a href="mailto:info.tolusocials@gmail.com" class="btn btn-lg mb-4" style="display: block;
+    <a href="mailto:info.tolusocials@gmail.com" class="btn btn-lg mb-4 special-font" style="display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 200px;">Work with me?</a>
+  width: 210px;">Work with me?</a>
     </div>
     
     </div>
@@ -161,7 +161,7 @@
     <h2 class="text-center pb-2">Certifications</h2>
     <!-- <p class="text-center">Tech content that resonates with developers</p> -->
     <div class="row">
-    <div class="col-md-6 pb-3"><img src="images/google-ads-ai-powered-performance-foundations.png" alt="Digital Marketing Foundations" class="img-fluid img-thumbnail"></div>
+    <div class="col-md-6 pb-3"><img src="images/google-ads-ai-powered-performance-foundations.png" alt="Google Ads AI Powered Performance Foundations" class="img-fluid img-thumbnail"></div>
       <div class="col-md-6 pb-3"><img src="images/google-ads-measurement-certification.png" alt="Google Ads Measurement Certification" class="img-fluid img-thumbnail"></div>
       <div class="col-md-6 pb-3"><img src="images/social-media-manager.jpg" alt="Social Media Manager" class="img-fluid img-thumbnail"></div>
       <div class="col-md-6 pb-3"><img src="images/digital-marketing-foundations.jpg" alt="Digital Marketing Foundations" class="img-fluid img-thumbnail"></div>
