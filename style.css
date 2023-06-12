@@ -31,7 +31,11 @@ nav {
     font-family: 'Bruno Ace SC', cursive;
 }
 
-h1, h2{
+h1, h2, h4{
+    font-family: 'Bruno Ace SC', cursive;
+}
+
+.special-font {
     font-family: 'Bruno Ace SC', cursive;
 }
 

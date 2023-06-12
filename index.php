@@ -37,7 +37,7 @@
           <a class="nav-link" aria-current="page" href="#services">Services</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" aria-current="page" href="#certificates">Certificates</a>
+          <a class="nav-link" aria-current="page" href="#certifications">Certifications</a>
         </li>
         <!-- <li class="nav-item">
           <a class="nav-link" aria-current="page" href="#testimonials">Testimonials</a>
@@ -58,7 +58,7 @@
             <img src="images/main.jpg" alt="Profile Image" class="main__img img-thumbnail">
           </div>
           <div class="col-md-8">
-            <h1>Hello there!</h1>
+            <h2>Hello there!</h2>
             <p>
             My name is Adeleke Toluwalope. I am a passionate digital marketer. I help businesses leverage
             social media and search platforms to win new customers, generate quality leads and grow their
@@ -66,8 +66,8 @@
 
             </p>     
 <br>
-<a href="mailto:info.tolusocials@gmail.com" class="btn btn-lg mb-4">Work with me?</a> &nbsp; &nbsp; &nbsp; &nbsp;
-<a href="https://www.tolusocials.com/Adeleke Toluwalope (Resume).pdf" class="btn btn-lg mb-4">My Resume</a>
+<a href="mailto:info.tolusocials@gmail.com" class="btn btn-lg mb-4 special-font">Work with me?</a> &nbsp; &nbsp; &nbsp; &nbsp;
+<a href="https://www.tolusocials.com/Adeleke Toluwalope (Resume).pdf" class="btn btn-lg mb-4 special-font">My Resume</a>
           </div>
         </div>
       </div>
@@ -99,7 +99,7 @@
                 <p class="text-center no--box">
                     <i class="fa fa-cogs fa-5x" style="color: #004aad;"></i>
                 </p>
-                <h4 class="text-center">Social Media Marketing/Management</h4>
+                <p class="text-center">Social Media Marketing/Management</p>
 
 
                     </div>
@@ -107,21 +107,21 @@
                 <p class="text-center no--box">
                     <i class="fa fa-bullhorn fa-5x" style="color: #004aad;"></i>
                 </p>
-                <h4 class="text-center">Paid Advertising</h4>
+                <p class="text-center">Paid Advertising</p>
 
             </div>
             <div class="col-md-4 col-sm-6 hover--effect pb-5">
                 <p class="text-center no--box">
                     <i class="fa fa-line-chart fa-5x" style="color: #004aad;"></i>
                 </p>
-                <h4 class="text-center">Google Analytics</h4>
+                <p class="text-center">Google Analytics</p>
 
             </div>
             <div class="col-md-4 col-sm-6 hover--effect pb-5">
                 <p class="text-center no--box">
                     <i class="fa fa-balance-scale fa-5x" style="color: #004aad;"></i>
                 </p>
-                <h4 class="text-center">SEO</h4>
+                <p class="text-center">SEO</p>
 
             </div>
 
@@ -129,7 +129,7 @@
                 <p class="text-center no--box">
                     <i class="fa fa-book fa-5x" style="color: #004aad;"></i>
                 </p>
-                <h4 class="text-center">Conceptualization & Copywriting</h4>
+                <p class="text-center">Conceptualization & Copywriting</p>
 
            </div>
 
@@ -137,7 +137,7 @@
                 <p class="text-center no--box">
                     <i class="fa fa-handshake-o fa-5x" style="color: #004aad;"></i>
                 </p>
-                <h4 class="text-center">1-on-1 Consultation</h4>
+                <p class="text-center">1-on-1 Consultation</p>
 
            </div>
 
@@ -154,16 +154,17 @@
 
     <br>
 
-    <div data-target="#navbar-example2" data-spy="scroll" id="certificates">
+    <div data-target="#navbar-example2" data-spy="scroll" id="certifications">
     <div class="container">
-    <div class="certificates pt-4 p-2">
+    <div class="certifications pt-4 p-2">
 
-    <h2 class="text-center pb-2">Certificates</h2>
+    <h2 class="text-center pb-2">Certifications</h2>
     <!-- <p class="text-center">Tech content that resonates with developers</p> -->
     <div class="row">
-      <div class="col-md-4 pb-3"><img src="images/google-ads.png" alt="Google Ads" class="img-fluid img-thumbnail"></div>
-      <div class="col-md-4 pb-3"><img src="images/social-media-manager.jpg" alt="Social Media Manager" class="img-fluid img-thumbnail"></div>
-      <div class="col-md-4 pb-3"><img src="images/digital-marketing-foundations.jpg" alt="Digital Marketing Foundations" class="img-fluid img-thumbnail"></div>
+    <div class="col-md-6 pb-3"><img src="images/google-ads-ai-powered-performance-foundations.png" alt="Digital Marketing Foundations" class="img-fluid img-thumbnail"></div>
+      <div class="col-md-6 pb-3"><img src="images/google-ads-measurement-certification.png" alt="Google Ads Measurement Certification" class="img-fluid img-thumbnail"></div>
+      <div class="col-md-6 pb-3"><img src="images/social-media-manager.jpg" alt="Social Media Manager" class="img-fluid img-thumbnail"></div>
+      <div class="col-md-6 pb-3"><img src="images/digital-marketing-foundations.jpg" alt="Digital Marketing Foundations" class="img-fluid img-thumbnail"></div>
     </div>
     </div>
     </div>
@@ -177,12 +178,11 @@
 
       
     <div class="connect text-center">
-      <h4>Connect</h4>
+      <h4>Connect with me</h4>
       <br>
-      <a href="mailto:info.tolusocials@gmail.com" class="m-3"><i class="fa fa-envelope-o" style="font-size:36px; color: #004aad;"></i></a>
-      <a href="https://twitter.com/tolu_socials" class="m-3"><i class="fa fa-twitter" style="font-size:36px; color: #004aad;"></i></a>
-      <a href="https://www.facebook.com/profile.php?id=100090678185058" class="m-3"><i class="fa fa-facebook" style="font-size:36px; color: #004aad;"></i></a>
-      <a href="https://www.instagram.com/tolu_socials/ class="m-3"><i class="fa fa-instagram" style="font-size:36px; color: #004aad;"></i></a>
+      <a href="mailto:info.tolusocials@gmail.com" class="m-4"><i class="fa fa-envelope-o" style="font-size:36px; color: #004aad;"></i></a>
+      <a href="https://www.linkedin.com/in/adetipe-toluwalope-adeleke-abb04922b/" class="m-3"><i class="fa fa-linkedin" style="font-size:36px; color: #004aad;"></i></a>
+      <a href="https://www.instagram.com/tolu_socials/" class="m-3"><i class="fa fa-instagram" style="font-size:36px; color: #004aad;"></i></a>
     </div>
     </div>
     </div>
