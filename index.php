@@ -11,12 +11,10 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&family=Roboto+Slab&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="main_style.css">
+    <link rel="stylesheet" href="main.css">
     <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
     <meta name="author" content="Adeleke Toluwalope">
-    <meta name="description" content="I am a passionate digital marketer. I help businesses leverage
-            social media and search platforms to win new customers, generate quality leads and grow their
-            presence through effective marketing strategies, thereby increasing their Return on Investment (ROI)">
+    <meta name="description" content="Passionate Digital Marketer with experience in Social Media Marketing & Management, Paid Advertising (Meta & Google), Content Writing, SEO, and Copywriting. Committed to helping businesses leverage social media and search platforms to boost their online presence, generate quality leads, win new customers, and elevate brands with words, thereby increasing their ROI.">
     <meta name="keywords" content="Adeleke Toluwalope, Digital Marketer, Social Media Marketing/Management, Paid Advertising, Google Analytics, SEO, Conceptualization & Copywriting, 1-on-1 Consultation">
      <meta name="robots" content="index, follow">
     <title>Adeleke Toluwalope | Digital Marketer</title>
@@ -37,11 +35,15 @@
           <a class="nav-link" aria-current="page" href="#services">Services</a>
         </li>
         <li class="nav-item">
+          <a class="nav-link" aria-current="page" href="#testimonials">Testimonials</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" aria-current="page" href="https://medium.com/@info.tolusocials">Blog</a>
+        </li>
+        <li class="nav-item">
           <a class="nav-link" aria-current="page" href="#certifications">Certifications</a>
         </li>
-        <!-- <li class="nav-item">
-          <a class="nav-link" aria-current="page" href="#testimonials">Testimonials</a>
-        </li> -->
+        
         <li class="nav-item">
           <a class="nav-link" aria-current="page" href="#connect">Contact</a>
         </li>
@@ -60,18 +62,22 @@
           <div class="col-md-8">
             <h2>Hello there!</h2>
             <p>
-            My name is Adeleke Toluwalope. I am a passionate digital marketer. I help businesses leverage
-            social media and search platforms to win new customers, generate quality leads and grow their
-            presence through effective marketing strategies, thereby increasing their <strong>Return on Investment (ROI)</strong>.
+            My name is Adeleke Toluwalope. I am a passionate digital marketer with 
+            experience in Social Media Marketing & Management, 
+            Paid Advertising (Meta & Google), Content Writing, SEO, and Copywriting. 
+            Committed to helping businesses leverage social media and search platforms to 
+            boost their online presence, generate quality leads, win new customers, and elevate 
+            brands with words, thereby increasing their ROI.
 
             </p>     
 <br>
 <a href="mailto:info.tolusocials@gmail.com" class="btn btn-lg mb-4 special-font">Work with me?</a> &nbsp; &nbsp; &nbsp; &nbsp;
-<a href="https://www.tolusocials.com/Adeleke_Toluwalope_Resume.pdf" class="btn btn-lg mb-4 special-font">My Resume</a>
+<a href="https://www.tolusocials.com/Adeleke_T_Resume.pdf" class="btn btn-lg mb-4 special-font">My Resume</a>
           </div>
         </div>
       </div>
     </div>
+    <br>
     <br>
     <div data-target="#navbar-example2" data-spy="scroll" id="about-me">
     <div class="container">
@@ -87,6 +93,7 @@
     </div>
     </div>
     </div>
+    <br>
 
     <div data-target="#navbar-example2" data-spy="scroll" id="services">
 
@@ -153,6 +160,59 @@
     </div>
 
     <br>
+    <br>
+
+    <div data-target="#navbar-example2" data-spy="scroll" id="testimonials">
+
+<div class="container testimonials pt-4 p-2">
+    <h2 class="text-center">Testimonials</h2>
+    <p class="text-center" style="font-size: large;">What clients say about me</p>
+
+    <br>
+
+    <div class="row m-3 mb-5">
+    <div class="col-md-6 pb-4 text-center">
+      <div class="testimonials__card p-4">
+      <img src="images/no-image.png" alt="Client image" width="100">
+      <h5>Zainab Oyetunji</h5>
+      <small>CEO Zee_perfumes</small>
+      <br>
+      <br>
+      <q>
+        Thanks so much for such an advert Tolu. A lot of people messaged and patronized me. The sales was massive.
+
+      </q>
+      </div>
+      
+      
+    </div>
+      <div class="col-md-6 text-center">
+        <div class="testimonials__card p-4">
+        <img src="images/no-image.png" alt="Client image" width="100">
+      <h5>Femi Okewole</h5>
+      <small>CEO Aramedia Music School</small>
+      <br>
+      <br>
+      <q>
+        Five stars are not enough to express my gratitude and satisfaction. Thank you for your exceptional work.
+        You've truly elevated our brand with your words.
+      </q>
+        </div>
+      
+      </div>
+    </div>
+  
+
+</div>
+
+</div>
+
+<br>
+<br>
+
+
+
+
 
     <div data-target="#navbar-example2" data-spy="scroll" id="certifications">
     <div class="container">
